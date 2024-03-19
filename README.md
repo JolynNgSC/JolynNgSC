@@ -12,12 +12,11 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Penatration                     | <a href="https://google.com">Pentatration Assignment </a>|
-| Vulnerability Mitigation                      | <a href="https://google.com">Detection Lab</a>|
+| Penatration w/ Zerologon (CVE-2020-1472)      | <a href="https://google.com">Detection Lab</a>|
+| Penatration w/ EFS Windows (CVE-2021-43217)   | <a href="https://google.com">Detection Lab</a>|
+| Forensic Investigation                        | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection |<a href="https://google.com">Detection Lab</a>|
-| Forensic Investigation                        | <a href="https://google.com">Detection Lab</a>||
-| Penatration Test with Zerologon               | <a href="https://google.com">Detection Lab</a>||
-| Pentration Test with EFS Windows              | <a href="https://google.com">Detection Lab</a>||
+| Forensic Investigation                        |
 
 ## Cybersecurity Tools 
 | Skill                  | 
@@ -27,6 +26,7 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 | Unbuntu                |
 | Windows                |
 | MacOS                  |
+| Wireshark              |
 
 ## Cyberforensic Tools 
 | Skill                  | 
@@ -34,6 +34,12 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 | Autopsy                |
 | OSForensics            |
 | Magnet AXIOM           |
+
+## Other Tools
+| Skill                  | 
+|------------------------|
+| SQLite                 |
+| SQLDeveloper           |
 
 ## Coding Language 
 | Types        | Level of Knowledge  | 
@@ -43,11 +49,10 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 
 
 ## Pratical Projects
-- Pentration Assignement (CVE 
-- Mitigation Assignment
+- Penatration w/ Zerologon (CVE-2020-1472)     
+- Penatration w/ EFS Windows (CVE-2021-43217) 
 - Forensic Evaluation Assignment
-- Malware Creation
-- 
+- Malware Creation Pratice
 
-## Paper Research 
+## Research Paper 
 - Ransomeware Research (WannaCry)
