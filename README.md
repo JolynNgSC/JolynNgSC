@@ -12,11 +12,11 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Penatration w/ Zerologon (CVE-2020-1472)      | <a href="https://google.com">Detection Lab</a>|
+| Penatration w/ Zerologon                      | <a href="https://drive.google.com/drive/folders/1ThbvMgfqUlI10NwyTj01FWSJ4-ZdHfIY?usp=sharing">CVE-2020-1472</a>|
 | Penatration w/ EFS Windows                    | <a href="https://drive.google.com/drive/folders/1twJs87YJaQ6qF_feU7wW8qEX92iP5Ixq?usp=sharing">CVE-2021-43217</a>|
 | Digital Forensic Investigation                | <a href="https://docs.google.com/document/d/1nctDRl1U3QKSSD31uigXFxvTt6bQiqqX/edit?usp=sharing&ouid=100073156622167220970&rtpof=true&sd=true">Digital Forensic Investigation</a>|
-| Network Security with Port Scanning           |
-| Vulnerability Assesment with Greenbone        |
+| Network Security w/ Port Scanning             | <a href="https://drive.google.com/file/d/1D0ytceRYPZu8I5zodhEC15I2emwBCBQk/view?usp=sharing">Port Scanning</a>|
+| Vulnerability Assesment w/   Greenbone        | <a href="https://drive.google.com/file/d/1OjJT1XKohL5PKpG7PI-HwtClJKk8DiWj/view?usp=sharing">Vulnerability Assesment</a>|
 
 ## Cybersecurity Tools 
 | Skill                  | 
