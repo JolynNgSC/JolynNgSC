@@ -13,10 +13,10 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Penatration w/ Zerologon (CVE-2020-1472)      | <a href="https://google.com">Detection Lab</a>|
-| Penatration w/ EFS Windows (CVE-2021-43217)   | <a href="https://google.com">Detection Lab</a>|
+| Penatration w/ EFS Windows                    | <a href="https://drive.google.com/drive/folders/1twJs87YJaQ6qF_feU7wW8qEX92iP5Ixq?usp=sharing">CVE-2021-43217</a>|
 | Forensic Investigation                        | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection |<a href="https://google.com">Detection Lab</a>|
-| Forensic Investigation                        |
+| Network Security with Port Scanning           |
+| Vulnerability Assesment with Greenbone        |
 
 ## Cybersecurity Tools 
 | Skill                  | 
@@ -52,7 +52,5 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 - Penatration w/ Zerologon (CVE-2020-1472)     
 - Penatration w/ EFS Windows (CVE-2021-43217) 
 - Forensic Evaluation Assignment
-- Malware Creation Pratice
-
-## Research Paper 
-- Ransomeware Research (WannaCry)
+- Port Scanning and Threat Modeling
+- Identification of Service and OS Information
