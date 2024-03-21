@@ -50,7 +50,7 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 
 ## Pratical Projects
 - Penatration w/ Zerologon (CVE-2020-1472)     
-- Penatration w/ EFS Windows (CVE-2021-43217) 
+- <a href="https://github.com/JolynNgSC/EFS_CVE-2021-43217">EFS_CVE-2021-43217</a>
 - Forensic Evaluation Assignment
 - Port Scanning and Threat Modeling
 - Identification of Service and OS Information
