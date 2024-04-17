@@ -15,7 +15,7 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 | Penatration w/ Zerologon                      | <a href="https://github.com/JolynNgSC/Zerologon_CVE-2020-1472">Zerologon_CVE-2020-1472</a>|
 | Penatration w/ EFS Windows                    | <a href="https://github.com/JolynNgSC/EFS_CVE-2021-43217">EFS_CVE-2021-43217</a>|
 | Digital Forensic Investigation                | <a href="https://github.com/JolynNgSC/Cyber_Forensics-">Digital Forensic Investigation</a>|
-| Network Security w/ Port Scanning             | <a href="https://drive.google.com/file/d/1D0ytceRYPZu8I5zodhEC15I2emwBCBQk/view?usp=sharing">Port Scanning</a>|
+| Network Security w/ Port Scanning             | <a href="https://github.com/JolynNgSC/Network_Security/blob/main/README.md">Port Scanning</a>|
 | Vulnerability Assesment w/ Nmap - Greenbone   | <a href="https://drive.google.com/file/d/1OjJT1XKohL5PKpG7PI-HwtClJKk8DiWj/view?usp=sharing">Vulnerability Assesment</a>|
 
 ## Cybersecurity Tools 
@@ -50,7 +50,7 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 
 ## Pratical Projects
 - Penatration w/ Zerologon (CVE-2020-1472)     
-- <a href="https://github.com/JolynNgSC/EFS_CVE-2021-43217">EFS_CVE-2021-43217</a>
+- EFS Bypass (CVE-2021-43217)
 - Forensic Evaluation Assignment
 - Port Scanning and Threat Modeling
 - Identification of Service and OS Information
