@@ -16,7 +16,7 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 | Penatration w/ EFS Windows                    | <a href="https://github.com/JolynNgSC/EFS_CVE-2021-43217">EFS_CVE-2021-43217</a>|
 | Digital Forensic Investigation                | <a href="https://github.com/JolynNgSC/Cyber_Forensics-">Digital Forensic Investigation</a>|
 | Network Security w/ Port Scanning             | <a href="https://github.com/JolynNgSC/Network_Security/blob/main/README.md">Port Scanning</a>|
-| Vulnerability Assesment w/ Nmap - Greenbone   | <a href="https://drive.google.com/file/d/1OjJT1XKohL5PKpG7PI-HwtClJKk8DiWj/view?usp=sharing">Vulnerability Assesment</a>|
+| Vulnerability Assesment w/ Greenbone   | <a href="https://github.com/JolynNgSC/Greenbone/blob/main/README.md">Vulnerability Assesment</a>|
 
 ## Cybersecurity Tools 
 | Skill                  | 
