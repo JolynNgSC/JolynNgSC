@@ -45,7 +45,7 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 | Types        | Level of Knowledge  | 
 |--------------|---------------------|
 | C++          | Basic               |
-| Python       | Basic               |
+| Python       | <a href = "https://github.com/JolynNgSC/JNSC_Python/blob/main/README.md">Practice <a/> |
 
 
 ## Pratical Projects
