@@ -7,10 +7,9 @@ I am a recent graduate with a profound interest in cybersecurity and forensics w
 
 My journey in studying cyberseucurity has led me to develop a passion for this area of technology, and I am now eager to be apart of this field. I am specifically aiming to join a cybersecurity company to start my career in this field.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Projects
 
-| Skill                                         | Associated Project         |
+| Projects                                      | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Penatration w/ Zerologon                      | <a href="https://github.com/JolynNgSC/Zerologon_CVE-2020-1472">Zerologon_CVE-2020-1472</a>|
 | Penatration w/ EFS Windows                    | <a href="https://github.com/JolynNgSC/EFS_CVE-2021-43217">EFS_CVE-2021-43217</a>|
