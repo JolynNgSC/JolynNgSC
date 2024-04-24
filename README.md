@@ -19,7 +19,7 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 | Vulnerability Assesment w/ Greenbone   | <a href="https://github.com/JolynNgSC/Greenbone/blob/main/README.md">Vulnerability Assesment</a>|
 
 ## Meduims 
-| Skill                  | 
+| Systems                | 
 |------------------------|
 | Virtual Machine        |
 | Kali Linux             |
