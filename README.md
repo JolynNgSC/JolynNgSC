@@ -22,6 +22,7 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 | Research Topics                               | Associated Project        |
 |-----------------------------------------------|---------------------------|
 | Security Information and Event Management     | <a href="https://github.com/JolynNgSC/JNSC_SIEM/blob/main/README.md">SIEM Research</a>|
+| User Entity Behavior Analytics                | <a href="https://github.com/JolynNgSC/JNSC_UEBA/blob/main/README.md">UEBA Research</a>|
 
 ## Virtual and Physical Machines  
 All virtualised enviroment was created via either Oracle VirtualBox and VMware Workstation.
