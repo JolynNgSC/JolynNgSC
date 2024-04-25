@@ -18,6 +18,11 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 | Vulnerability Assesment w/ Greenbone   | <a href="https://github.com/JolynNgSC/Greenbone/blob/main/README.md">Vulnerability Assesment</a>|
 | TCPDump Pratice                        | <a href="https://github.com/JolynNgSC/TCPDump_Project"> TCPDump Project</a>|
 
+## Reseach Projects
+| Research Topics                               | Associated Project        |
+|-----------------------------------------------|---------------------------|
+| Security Information and Event Management     | <a href="https://github.com/JolynNgSC/JNSC_SIEM/blob/main/README.md">SIEM Research</a>|
+
 ## Virtual and Physical Machines  
 All virtualised enviroment was created via either Oracle VirtualBox and VMware Workstation.
 | Systems                | Level of Use            |
@@ -59,4 +64,4 @@ Coding Language that I have used before.
 - TCPDump
 
 ## Research Projects 
-- 
+- SIEM 
