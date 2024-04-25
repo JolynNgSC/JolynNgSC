@@ -19,33 +19,35 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 | TCPDump Pratice                        | <a href="https://github.com/JolynNgSC/TCPDump_Project"> TCPDump Project</a>|
 
 ## Virtual and Physical Machines  
-| Systems                | 
-|------------------------|
-| Virtual Machine        |
-| Kali Linux             |
-| Unbuntu                |
-| Windows                |
-| MacOS                  |
-| Wireshark              |
+All virtualised enviroment was created via either Oracle VirtualBox and VMware Workstation.
+| Systems                | Level of Use            |
+|------------------------|------------|
+| Kali Linux             | Intermediate |
+| Windows                | Intermediate |
+| MacOS                  | Intermediate |
+| Unbuntu                | Basic        |
 
 ## Cyberforensic Tools 
-| Skill                  | 
-|------------------------|
-| Autopsy                |
-| OSForensics            |
-| Magnet AXIOM           |
+Digital Forensic Images were processed via the following tools.
+| Tools                  | Level of Knowledge |
+|------------------------|--------------|
+| Autopsy                | Intermediate |
+| OSForensics            | Intermediate |
+| Magnet AXIOM           | Basic        |
 
 ## Other Tools
-| Skill                  | 
-|------------------------|
-| SQLite                 |
-| SQLDeveloper           |
+Other tools which I have used for certain projects. 
+| Tools                  | Level of Knowledge |
+|------------------------|--------------------|
+| SQLite                 | Basic              |
+| SQLDeveloper           | Basic              |
+| Wireshark              | Basic              |
 
 ## Coding Language 
-| Types        | Level of Knowledge  | 
-|--------------|---------------------|
-| C++          | Basic               |
-| Python       | <a href = "https://github.com/JolynNgSC/JNSC_Python/blob/main/README.md">Practice <a/> |
+Coding Language that I have used before.
+| Types        | Example             | Level of Knowledge |
+|--------------|---------------------|---------------------|
+| Python       | <a href = "https://github.com/JolynNgSC/JNSC_Python/blob/main/README.md">Practice <a/> | Basic |
 
 
 ## Pratical Projects
@@ -54,3 +56,7 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 - Forensic Evaluation Assignment
 - Port Scanning and Threat Modeling
 - Greenbone
+- TCPDump
+
+## Research Projects 
+- 
