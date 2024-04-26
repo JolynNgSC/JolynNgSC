@@ -25,7 +25,7 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 | Security Information and Event Management     | <a href="https://github.com/JolynNgSC/JNSC_SIEM/blob/main/README.md">SIEM Research</a>|
 | User Entity Behavior Analytics                | <a href="https://github.com/JolynNgSC/JNSC_UEBA/blob/main/README.md">UEBA Research</a>|
 | Security orchestration, automation and response | <a href="https://github.com/JolynNgSC/JNSC_SOAR/blob/main/README.md">SOAR Research</a>|
-| Endpoint                                      |                            |
+| Endpoint                                      | <a href="https://github.com/JolynNgSC/JNSC_ENDPOINT/blob/main/README.md">ENDPOINT Research</a> |
 | Data Lost Prevention                          |                            |
 
 ## Virtual and Physical Machines  
