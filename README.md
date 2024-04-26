@@ -17,7 +17,6 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 | Network Security w/ Port Scanning             | <a href="https://github.com/JolynNgSC/Network_Security/blob/main/README.md">Port Scanning</a>|
 | Vulnerability Assesment w/ Greenbone   | <a href="https://github.com/JolynNgSC/Greenbone/blob/main/README.md">Vulnerability Assesment</a>|
 | TCPDump Pratice                        | <a href="https://github.com/JolynNgSC/TCPDump_Project"> TCPDump Project</a>|
-| Risk Management w/ IT Governence       |                     |
 
 ## Reseach Projects
 | Research Topics                               | Associated Project        |
