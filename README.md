@@ -26,7 +26,7 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 | User Entity Behavior Analytics                | <a href="https://github.com/JolynNgSC/JNSC_UEBA/blob/main/README.md">UEBA Research</a>|
 | Security orchestration, automation and response | <a href="https://github.com/JolynNgSC/JNSC_SOAR/blob/main/README.md">SOAR Research</a>|
 | Endpoint                                      | <a href="https://github.com/JolynNgSC/JNSC_ENDPOINT/blob/main/README.md">ENDPOINT Research</a> |
-| Data Lost Prevention                          |                            |
+| Data Lost Prevention                          | <a href="https://github.com/JolynNgSC/JNSC_DLP/blob/main/README.md">DLP Research</a> |
 
 ## Virtual and Physical Machines  
 All virtualised enviroment was created via either Oracle VirtualBox and VMware Workstation.
