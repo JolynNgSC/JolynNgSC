@@ -27,7 +27,7 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 | Endpoint                                      | <a href="https://github.com/JolynNgSC/JNSC_ENDPOINT/blob/main/README.md">ENDPOINT Research</a> |
 | Data Lost Prevention                          | <a href="https://github.com/JolynNgSC/JNSC_DLP/blob/main/README.md">DLP Research</a> |
 | Threat Analysis                               | <a href="https://github.com/JolynNgSC/JNSC_ThreatAnalysis/blob/main/README.md">THREAT Research</a> |                           |
-| Firewall                                      | <a href="https://github.com/JolynNgSC/JNSC_Firewall">Firewall Research</a>              |
+| Firewall                                      | <a href="https://github.com/JolynNgSC/JNSC_Firewall">FIREWALL Research</a>              |
 | IPS                                           | <a href="https://github.com/JolynNgSC/JNSC_IPS/blob/main/README.md">IPS Research</a>    |
 
 ## Virtual and Physical Machines  
