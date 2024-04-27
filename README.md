@@ -26,7 +26,7 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 | Security orchestration, automation and response | <a href="https://github.com/JolynNgSC/JNSC_SOAR/blob/main/README.md">SOAR Research</a>|
 | Endpoint                                      | <a href="https://github.com/JolynNgSC/JNSC_ENDPOINT/blob/main/README.md">ENDPOINT Research</a> |
 | Data Lost Prevention                          | <a href="https://github.com/JolynNgSC/JNSC_DLP/blob/main/README.md">DLP Research</a> |
-| Threat Analysis                               |                            |
+| Threat Analysis                               | <a href="https://github.com/JolynNgSC/JNSC_ThreatAnalysis/blob/main/README.md">THREAT Research</a> |                           |
 | Firewall                                      |                            |
 | IPS                                           |                            |
 
