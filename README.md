@@ -8,7 +8,7 @@ I am a recent graduate with a profound interest in cybersecurity and forensics w
 My journey in studying cyberseucurity has led me to develop a passion for this area of technology, and I am now eager to be apart of this field. I am specifically aiming to join a cybersecurity company to start my career in this field.
 
 ## Projects
-
+The following were a list of pratical projects that I had done.
 | Projects                                      | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Penatration w/ Zerologon                      | <a href="https://github.com/JolynNgSC/Zerologon_CVE-2020-1472">Zerologon_CVE-2020-1472</a>|
@@ -19,6 +19,7 @@ My journey in studying cyberseucurity has led me to develop a passion for this a
 | TCPDump Pratice                        | <a href="https://github.com/JolynNgSC/TCPDump_Project"> TCPDump Project</a>|
 
 ## Reseach Projects
+The following were a list of essay findings that I had written. 
 | Research Topics                               | Associated Project        |
 |-----------------------------------------------|---------------------------|
 | Security Information and Event Management     | <a href="https://github.com/JolynNgSC/JNSC_SIEM/blob/main/README.md">SIEM Research</a>|
