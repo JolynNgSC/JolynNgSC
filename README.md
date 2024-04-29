@@ -1,11 +1,8 @@
 # Hello, I'm Jolyn
 <a href="https://www.linkedin.com/in/jolyn-ng-396836196/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in cybersecurity and forensics with a dedication to solving complex problems, and protect users' cybersecurity space.
-
 ## Objective
-
-My journey in studying cyberseucurity has led me to develop a passion for this area of technology, and I am now eager to be apart of this field. I am specifically aiming to join a cybersecurity company to start my career in this field.
+I have a profound interest in cybersecurity and forensics therefore I took a cybersecurity degree. I enjoy dedicating time to solving complex problems and continually learning, as it fuels my passion for cybersecurity. I am specifically aiming to join a cybersecurity company to start my career in this field.
 
 ## Projects
 The following were a list of pratical projects that I had done.
@@ -19,7 +16,7 @@ The following were a list of pratical projects that I had done.
 | TCPDump Pratice                        | <a href="https://github.com/JolynNgSC/TCPDump_Project"> TCPDump Project</a>|
 
 ## Reseach Projects
-The following were a list of essay findings that I had written. 
+The following is a list of essay findings that I had written as part of my learning about cybersecurity.
 | Research Topics                               | Associated Project        |
 |-----------------------------------------------|---------------------------|
 | Security Information and Event Management     | <a href="https://github.com/JolynNgSC/JNSC_SIEM/blob/main/README.md">SIEM Research</a>|
@@ -31,11 +28,12 @@ The following were a list of essay findings that I had written.
 | Firewall                                      | <a href="https://github.com/JolynNgSC/JNSC_Firewall">FIREWALL Research</a>              |
 | IPS                                           | <a href="https://github.com/JolynNgSC/JNSC_IPS/blob/main/README.md">IPS Research</a>    |
 | NIST/ISO27001/2                               | <a href="https://github.com/JolynNgSC/Cyber-Security-Framework">NIST ISO Research</a>|
+| ATLAS 
 
 ## Virtual and Physical Machines  
 All virtualised enviroment was created via either Oracle VirtualBox and VMware Workstation.
-| Systems                | Level of Use            |
-|------------------------|------------|
+| Systems                | Level of Use |
+|------------------------|--------------|
 | Kali Linux             | Intermediate |
 | Windows                | Intermediate |
 | MacOS                  | Intermediate |
@@ -44,10 +42,10 @@ All virtualised enviroment was created via either Oracle VirtualBox and VMware W
 ## Cyberforensic Tools 
 Digital Forensic Images were processed via the following tools.
 | Tools                  | Level of Knowledge |
-|------------------------|--------------|
-| Autopsy                | Intermediate |
-| OSForensics            | Intermediate |
-| Magnet AXIOM           | Basic        |
+|------------------------|--------------------|
+| Autopsy                | Intermediate       |
+| OSForensics            | Intermediate       |
+| Magnet AXIOM           | Basic              |
 
 ## Other Tools
 Other tools which I have used for certain projects. 
@@ -59,8 +57,8 @@ Other tools which I have used for certain projects.
 
 ## Coding Language 
 Coding Language that I have used before.
-| Types        | Example             | Level of Knowledge |
-|--------------|---------------------|---------------------|
+| Types        | Example             | Level of Knowledge                                                       |
+|--------------|---------------------|--------------------------------------------------------------------------|
 | Python       | <a href = "https://github.com/JolynNgSC/JNSC_Python/blob/main/README.md">Practice <a/> | Basic |
 
 
@@ -81,3 +79,4 @@ Coding Language that I have used before.
 - Threat Analysis
 - Firewall
 - IPS
+- NIST/ISO27001/2 
