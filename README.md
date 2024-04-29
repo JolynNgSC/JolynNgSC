@@ -24,11 +24,10 @@ The following is a list of essay findings that I had written as part of my learn
 | Security orchestration, automation and response | <a href="https://github.com/JolynNgSC/JNSC_SOAR/blob/main/README.md">SOAR Research</a>|
 | Endpoint                                      | <a href="https://github.com/JolynNgSC/JNSC_ENDPOINT/blob/main/README.md">ENDPOINT Research</a> |
 | Data Lost Prevention                          | <a href="https://github.com/JolynNgSC/JNSC_DLP/blob/main/README.md">DLP Research</a> |
-| Threat Analysis                               | <a href="https://github.com/JolynNgSC/JNSC_ThreatAnalysis/blob/main/README.md">THREAT Research</a> |                           |
+| Threat Analysis                               | <a href="https://github.com/JolynNgSC/JNSC_ThreatAnalysis/blob/main/README.md">THREAT Research</a> | 
 | Firewall                                      | <a href="https://github.com/JolynNgSC/JNSC_Firewall">FIREWALL Research</a>              |
 | IPS                                           | <a href="https://github.com/JolynNgSC/JNSC_IPS/blob/main/README.md">IPS Research</a>    |
 | NIST/ISO27001/2                               | <a href="https://github.com/JolynNgSC/Cyber-Security-Framework">NIST ISO Research</a>|
-| ATLAS 
 
 ## Virtual and Physical Machines  
 All virtualised enviroment was created via either Oracle VirtualBox and VMware Workstation.
