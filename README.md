@@ -30,7 +30,7 @@ The following were a list of essay findings that I had written.
 | Threat Analysis                               | <a href="https://github.com/JolynNgSC/JNSC_ThreatAnalysis/blob/main/README.md">THREAT Research</a> |                           |
 | Firewall                                      | <a href="https://github.com/JolynNgSC/JNSC_Firewall">FIREWALL Research</a>              |
 | IPS                                           | <a href="https://github.com/JolynNgSC/JNSC_IPS/blob/main/README.md">IPS Research</a>    |
-| NIST/ISO27001/2                               | <a href="https://github.com/JolynNgSC/Cyber-Security-Framework/main/README.md">NIST ISO Research</a>|
+| NIST/ISO27001/2                               | <a href="https://github.com/JolynNgSC/Cyber-Security-Framework">NIST ISO Research</a>|
 
 ## Virtual and Physical Machines  
 All virtualised enviroment was created via either Oracle VirtualBox and VMware Workstation.
