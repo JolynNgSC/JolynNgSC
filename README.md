@@ -13,7 +13,7 @@ The following were a list of pratical projects that I had done.
 | Digital Forensic Investigation                | <a href="https://github.com/JolynNgSC/Cyber_Forensics-">Digital Forensic Investigation</a>|
 | Network Security w/ Port Scanning             | <a href="https://github.com/JolynNgSC/Network_Security/blob/main/README.md">Port Scanning</a>|
 | Vulnerability Assesment w/ Greenbone   | <a href="https://github.com/JolynNgSC/Greenbone/blob/main/README.md">Vulnerability Assesment</a>|
-| TCPDump Pratice                        | <a href="https://github.com/JolynNgSC/TCPDump_Project"> TCPDump Project</a>|
+| Packet Sniffing                        | <a href="https://github.com/JolynNgSC/TCPDump_Project"> TCPDump Project</a>|
 
 ## Reseach Projects
 The following is a list of essay findings that I had written as part of my learning about cybersecurity.
