@@ -45,6 +45,7 @@ Digital Forensic Images were processed via the following tools.
 | Autopsy                | Intermediate       |
 | OSForensics            | Intermediate       |
 | Magnet AXIOM           | Basic              |
+| FTKImager              | Basic              |
 
 ## Other Tools
 Other tools which I have used for certain projects. 
