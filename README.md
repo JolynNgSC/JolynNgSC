@@ -2,7 +2,8 @@
 <a href="https://www.linkedin.com/in/jolyn-ng-396836196/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
-I have a profound interest in cybersecurity and forensics therefore I took a cybersecurity degree. I enjoy dedicating time to solving complex problems and continually learning, as it fuels my passion for cybersecurity. I am specifically aiming to join a cybersecurity company to start my career in this field.
+An aspiring cybersecurity graduate seeks internship to apply academic knowledge and passion to contribute to innovative initiatives in the field.
+
 
 ## Projects
 The following were a list of pratical projects that I had done.
