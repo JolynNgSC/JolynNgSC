@@ -14,6 +14,7 @@ The following were a list of pratical projects that I had done.
 | Network Security w/ Port Scanning             | <a href="https://github.com/JolynNgSC/Network_Security/blob/main/README.md">Port Scanning</a>|
 | Vulnerability Assesment w/ Greenbone   | <a href="https://github.com/JolynNgSC/Greenbone/blob/main/README.md">Vulnerability Assesment</a>|
 | Packet Sniffing                        | <a href="https://github.com/JolynNgSC/TCPDump_Project"> TCPDump Project</a>|
+| PowerBI Dashboard Project              | <a href="https://github.com/JolynNgSC/IT_Professional_Project/blob/main/README.md"> PowerBI Project</a>|
 
 ## Reseach Projects
 The following is a list of essay findings that I had written as part of my learning about cybersecurity.
